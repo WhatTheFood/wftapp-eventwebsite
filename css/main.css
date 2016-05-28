@@ -124,6 +124,10 @@ header {
     text-align: center;
 }
 
+.text-centered {
+	text-align: center;
+}
+
 .partner-item {
     border: 1px solid lightgrey;
     padding: 10px;
